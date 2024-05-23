@@ -8,7 +8,7 @@ import com.entity.Laptop;
 import com.entity.Student;
 import com.util.HibernateUtility;
 
-
+//this is the first commit
 
 public class Main {
     public static void main(String[] args) {
